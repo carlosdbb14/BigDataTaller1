@@ -23,7 +23,6 @@ def porcs(x):
 	raz = ci/ap
 	raz = raz -1 
 	raz = raz*100
-#	return f'{raz:.2f}%'
 	return raz
 
 
